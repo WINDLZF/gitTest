@@ -1,4 +1,9 @@
 the first text
 sub has changed ,but father changed it again
 finish
+<<<<<<< HEAD
 add mergge and fixed bug
+=======
+add mergge
+working .....
+>>>>>>> dev
