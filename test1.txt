@@ -1,4 +1,4 @@
 the first text
 sub has changed ,but father changed it again
 finish
-add mergge
+add mergge and fixed bug
